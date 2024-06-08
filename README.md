@@ -1,7 +1,3 @@
-Sure, here's a basic README text for your project:
-
----
-
 # Auto Scroll and Reload Extension
 
 The Auto Scroll and Reload Extension is a Chrome browser extension designed to automatically scroll through web pages and reload them at specified intervals, visiting a list of URLs in sequence.
